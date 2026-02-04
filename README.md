@@ -1,8 +1,8 @@
-# Gergino: ESP32 ile Sıvı Sinir Ağı (LNN) Denemesi 
+# ESP32 ile Sıvı Sinir Ağı (LNN) Denemesi 
 
 Merhaba, ben Yusuf. Bilgisayar Mühendisliği öğrencisiyim. Bu proje, MIT'nin geliştirdiği **"Liquid Neural Networks" (Sıvı Sinir Ağları)** yapısının mantığını kavramak ve bir mikrodenetleyici (ESP32) üzerinde çalışıp çalışmayacağını görmek için yaptığım bir deneydir.
 
-Robotun (Gergino) çok basit bir görevi var: **Panik yapmak.** Ama bunu klasik `if-else` kodlarıyla değil, zamanla değişen diferansiyel denklemlerle yapıyor.
+Robotun çok basit bir görevi var: **Panik yapmak.** Ama bunu klasik `if-else` kodlarıyla değil, zamanla değişen diferansiyel denklemlerle yapıyor.
 
 ---
 
